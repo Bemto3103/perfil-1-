@@ -1,0 +1,58 @@
+body{
+    background-color: white;
+   
+
+    font-family: sans-serif;
+}
+
+header{
+    background-color: black;
+    color: white;
+    height: 12VH;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.texto{
+    
+    
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    display: table-cell;
+    float: right;
+    width: 1000px;
+}
+
+.rolagem{
+    margin: 88px;
+    overflow-y: scroll;
+    width: 500px;
+    height: 200px;
+    border: black 4px solid;
+    border-radius: 10px;
+}
+.hab{
+   margin: auto;
+    
+    margin: 60px;
+ 
+}
+main{
+    
+    display: flex;
+
+}
+img{
+    border:  black solid 4px;;
+    border-radius: 20px;
+}
+
